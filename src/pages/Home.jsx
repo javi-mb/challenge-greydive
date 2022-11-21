@@ -15,7 +15,7 @@ const Home = () => {
             >
               <div className="text-white text-lg md:text-xl">
                 <h1>
-                  Si <span className="lowercase">{data.escenario[0]}</span>
+                  Sí <span className="lowercase">{data.escenario[0]}</span>
                   {data.escenario.slice(1)}
                 </h1>
               </div>
